@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabEx Kotlin</string>
+    <string name="welcome">Welcome to Kotlin World</string>
+    <string name="success">Login Successful</string>
+</resources>
